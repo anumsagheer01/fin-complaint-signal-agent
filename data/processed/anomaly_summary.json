@@ -1,0 +1,56 @@
+{
+  "Checking or savings account": {
+    "total_days": 639,
+    "anomalies_flagged": 25,
+    "anomaly_rate": 0.0391,
+    "top_anomaly_dates": [
+      {
+        "date": "2025-01-16",
+        "z_score": 6.86
+      },
+      {
+        "date": "2025-01-15",
+        "z_score": 6.59
+      },
+      {
+        "date": "2025-01-18",
+        "z_score": 6.19
+      },
+      {
+        "date": "2025-05-26",
+        "z_score": -4.48
+      },
+      {
+        "date": "2024-05-27",
+        "z_score": -4.19
+      }
+    ]
+  },
+  "Money transfer, virtual currency, or money service": {
+    "total_days": 639,
+    "anomalies_flagged": 5,
+    "anomaly_rate": 0.0078,
+    "top_anomaly_dates": [
+      {
+        "date": "2025-01-15",
+        "z_score": 18.34
+      },
+      {
+        "date": "2025-01-18",
+        "z_score": 10.18
+      },
+      {
+        "date": "2025-01-16",
+        "z_score": 8.78
+      },
+      {
+        "date": "2025-01-13",
+        "z_score": -3.43
+      },
+      {
+        "date": "2025-01-17",
+        "z_score": 3.38
+      }
+    ]
+  }
+}

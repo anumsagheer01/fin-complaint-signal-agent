@@ -1,0 +1,1279 @@
+date,category,complaint_count
+2024-01-01,Checking or savings account,11
+2024-01-01,"Money transfer, virtual currency, or money service",2
+2024-01-02,Checking or savings account,27
+2024-01-02,"Money transfer, virtual currency, or money service",7
+2024-01-03,Checking or savings account,37
+2024-01-03,"Money transfer, virtual currency, or money service",5
+2024-01-04,Checking or savings account,47
+2024-01-04,"Money transfer, virtual currency, or money service",5
+2024-01-05,Checking or savings account,31
+2024-01-05,"Money transfer, virtual currency, or money service",10
+2024-01-06,Checking or savings account,21
+2024-01-06,"Money transfer, virtual currency, or money service",6
+2024-01-07,Checking or savings account,8
+2024-01-07,"Money transfer, virtual currency, or money service",1
+2024-01-08,Checking or savings account,32
+2024-01-08,"Money transfer, virtual currency, or money service",5
+2024-01-09,Checking or savings account,41
+2024-01-09,"Money transfer, virtual currency, or money service",11
+2024-01-10,Checking or savings account,40
+2024-01-10,"Money transfer, virtual currency, or money service",12
+2024-01-11,Checking or savings account,43
+2024-01-11,"Money transfer, virtual currency, or money service",16
+2024-01-12,Checking or savings account,28
+2024-01-12,"Money transfer, virtual currency, or money service",6
+2024-01-13,Checking or savings account,16
+2024-01-13,"Money transfer, virtual currency, or money service",2
+2024-01-14,Checking or savings account,2
+2024-01-14,"Money transfer, virtual currency, or money service",0
+2024-01-15,Checking or savings account,8
+2024-01-15,"Money transfer, virtual currency, or money service",0
+2024-01-16,Checking or savings account,18
+2024-01-16,"Money transfer, virtual currency, or money service",3
+2024-01-17,Checking or savings account,38
+2024-01-17,"Money transfer, virtual currency, or money service",7
+2024-01-18,Checking or savings account,58
+2024-01-18,"Money transfer, virtual currency, or money service",17
+2024-01-19,Checking or savings account,52
+2024-01-19,"Money transfer, virtual currency, or money service",2
+2024-01-20,Checking or savings account,25
+2024-01-20,"Money transfer, virtual currency, or money service",8
+2024-01-21,Checking or savings account,19
+2024-01-21,"Money transfer, virtual currency, or money service",4
+2024-01-22,Checking or savings account,37
+2024-01-22,"Money transfer, virtual currency, or money service",14
+2024-01-23,Checking or savings account,36
+2024-01-23,"Money transfer, virtual currency, or money service",12
+2024-01-24,Checking or savings account,59
+2024-01-24,"Money transfer, virtual currency, or money service",11
+2024-01-25,Checking or savings account,50
+2024-01-25,"Money transfer, virtual currency, or money service",9
+2024-01-26,Checking or savings account,40
+2024-01-26,"Money transfer, virtual currency, or money service",6
+2024-01-27,Checking or savings account,16
+2024-01-27,"Money transfer, virtual currency, or money service",2
+2024-01-28,Checking or savings account,10
+2024-01-28,"Money transfer, virtual currency, or money service",1
+2024-01-29,Checking or savings account,40
+2024-01-29,"Money transfer, virtual currency, or money service",8
+2024-01-30,Checking or savings account,42
+2024-01-30,"Money transfer, virtual currency, or money service",7
+2024-01-31,Checking or savings account,48
+2024-01-31,"Money transfer, virtual currency, or money service",10
+2024-02-01,Checking or savings account,46
+2024-02-01,"Money transfer, virtual currency, or money service",11
+2024-02-02,Checking or savings account,41
+2024-02-02,"Money transfer, virtual currency, or money service",9
+2024-02-03,Checking or savings account,23
+2024-02-03,"Money transfer, virtual currency, or money service",0
+2024-02-04,Checking or savings account,17
+2024-02-04,"Money transfer, virtual currency, or money service",4
+2024-02-05,Checking or savings account,38
+2024-02-05,"Money transfer, virtual currency, or money service",5
+2024-02-06,Checking or savings account,37
+2024-02-06,"Money transfer, virtual currency, or money service",13
+2024-02-07,Checking or savings account,41
+2024-02-07,"Money transfer, virtual currency, or money service",7
+2024-02-08,Checking or savings account,41
+2024-02-08,"Money transfer, virtual currency, or money service",7
+2024-02-09,Checking or savings account,41
+2024-02-09,"Money transfer, virtual currency, or money service",4
+2024-02-10,Checking or savings account,16
+2024-02-10,"Money transfer, virtual currency, or money service",2
+2024-02-11,Checking or savings account,8
+2024-02-11,"Money transfer, virtual currency, or money service",2
+2024-02-12,Checking or savings account,34
+2024-02-12,"Money transfer, virtual currency, or money service",5
+2024-02-13,Checking or savings account,36
+2024-02-13,"Money transfer, virtual currency, or money service",13
+2024-02-14,Checking or savings account,34
+2024-02-14,"Money transfer, virtual currency, or money service",5
+2024-02-15,Checking or savings account,34
+2024-02-15,"Money transfer, virtual currency, or money service",9
+2024-02-16,Checking or savings account,43
+2024-02-16,"Money transfer, virtual currency, or money service",8
+2024-02-17,Checking or savings account,26
+2024-02-17,"Money transfer, virtual currency, or money service",2
+2024-02-18,Checking or savings account,9
+2024-02-18,"Money transfer, virtual currency, or money service",3
+2024-02-19,Checking or savings account,19
+2024-02-19,"Money transfer, virtual currency, or money service",6
+2024-02-20,Checking or savings account,33
+2024-02-20,"Money transfer, virtual currency, or money service",6
+2024-02-21,Checking or savings account,47
+2024-02-21,"Money transfer, virtual currency, or money service",10
+2024-02-22,Checking or savings account,43
+2024-02-22,"Money transfer, virtual currency, or money service",10
+2024-02-23,Checking or savings account,48
+2024-02-23,"Money transfer, virtual currency, or money service",7
+2024-02-24,Checking or savings account,20
+2024-02-24,"Money transfer, virtual currency, or money service",4
+2024-02-25,Checking or savings account,11
+2024-02-25,"Money transfer, virtual currency, or money service",0
+2024-02-26,Checking or savings account,50
+2024-02-26,"Money transfer, virtual currency, or money service",7
+2024-02-27,Checking or savings account,41
+2024-02-27,"Money transfer, virtual currency, or money service",11
+2024-02-28,Checking or savings account,35
+2024-02-28,"Money transfer, virtual currency, or money service",8
+2024-02-29,Checking or savings account,44
+2024-02-29,"Money transfer, virtual currency, or money service",12
+2024-03-01,Checking or savings account,32
+2024-03-01,"Money transfer, virtual currency, or money service",7
+2024-03-02,Checking or savings account,24
+2024-03-02,"Money transfer, virtual currency, or money service",5
+2024-03-03,Checking or savings account,15
+2024-03-03,"Money transfer, virtual currency, or money service",3
+2024-03-04,Checking or savings account,41
+2024-03-04,"Money transfer, virtual currency, or money service",7
+2024-03-05,Checking or savings account,35
+2024-03-05,"Money transfer, virtual currency, or money service",4
+2024-03-06,Checking or savings account,42
+2024-03-06,"Money transfer, virtual currency, or money service",10
+2024-03-07,Checking or savings account,57
+2024-03-07,"Money transfer, virtual currency, or money service",8
+2024-03-08,Checking or savings account,61
+2024-03-08,"Money transfer, virtual currency, or money service",7
+2024-03-09,Checking or savings account,22
+2024-03-09,"Money transfer, virtual currency, or money service",3
+2024-03-10,Checking or savings account,12
+2024-03-10,"Money transfer, virtual currency, or money service",3
+2024-03-11,Checking or savings account,31
+2024-03-11,"Money transfer, virtual currency, or money service",10
+2024-03-12,Checking or savings account,42
+2024-03-12,"Money transfer, virtual currency, or money service",10
+2024-03-13,Checking or savings account,45
+2024-03-13,"Money transfer, virtual currency, or money service",5
+2024-03-14,Checking or savings account,39
+2024-03-14,"Money transfer, virtual currency, or money service",5
+2024-03-15,Checking or savings account,32
+2024-03-15,"Money transfer, virtual currency, or money service",5
+2024-03-16,Checking or savings account,15
+2024-03-16,"Money transfer, virtual currency, or money service",6
+2024-03-17,Checking or savings account,15
+2024-03-17,"Money transfer, virtual currency, or money service",6
+2024-03-18,Checking or savings account,41
+2024-03-18,"Money transfer, virtual currency, or money service",13
+2024-03-19,Checking or savings account,37
+2024-03-19,"Money transfer, virtual currency, or money service",9
+2024-03-20,Checking or savings account,32
+2024-03-20,"Money transfer, virtual currency, or money service",6
+2024-03-21,Checking or savings account,35
+2024-03-21,"Money transfer, virtual currency, or money service",5
+2024-03-22,Checking or savings account,35
+2024-03-22,"Money transfer, virtual currency, or money service",8
+2024-03-23,Checking or savings account,24
+2024-03-23,"Money transfer, virtual currency, or money service",6
+2024-03-24,Checking or savings account,10
+2024-03-24,"Money transfer, virtual currency, or money service",0
+2024-03-25,Checking or savings account,39
+2024-03-25,"Money transfer, virtual currency, or money service",2
+2024-03-26,Checking or savings account,52
+2024-03-26,"Money transfer, virtual currency, or money service",13
+2024-03-27,Checking or savings account,38
+2024-03-27,"Money transfer, virtual currency, or money service",6
+2024-03-28,Checking or savings account,40
+2024-03-28,"Money transfer, virtual currency, or money service",4
+2024-03-29,Checking or savings account,44
+2024-03-29,"Money transfer, virtual currency, or money service",7
+2024-03-30,Checking or savings account,25
+2024-03-30,"Money transfer, virtual currency, or money service",2
+2024-03-31,Checking or savings account,8
+2024-03-31,"Money transfer, virtual currency, or money service",2
+2024-04-01,Checking or savings account,34
+2024-04-01,"Money transfer, virtual currency, or money service",9
+2024-04-02,Checking or savings account,34
+2024-04-02,"Money transfer, virtual currency, or money service",9
+2024-04-03,Checking or savings account,47
+2024-04-03,"Money transfer, virtual currency, or money service",7
+2024-04-04,Checking or savings account,46
+2024-04-04,"Money transfer, virtual currency, or money service",9
+2024-04-05,Checking or savings account,60
+2024-04-05,"Money transfer, virtual currency, or money service",9
+2024-04-06,Checking or savings account,14
+2024-04-06,"Money transfer, virtual currency, or money service",2
+2024-04-07,Checking or savings account,9
+2024-04-07,"Money transfer, virtual currency, or money service",2
+2024-04-08,Checking or savings account,43
+2024-04-08,"Money transfer, virtual currency, or money service",6
+2024-04-09,Checking or savings account,45
+2024-04-09,"Money transfer, virtual currency, or money service",8
+2024-04-10,Checking or savings account,41
+2024-04-10,"Money transfer, virtual currency, or money service",7
+2024-04-11,Checking or savings account,41
+2024-04-11,"Money transfer, virtual currency, or money service",6
+2024-04-12,Checking or savings account,47
+2024-04-12,"Money transfer, virtual currency, or money service",4
+2024-04-13,Checking or savings account,30
+2024-04-13,"Money transfer, virtual currency, or money service",4
+2024-04-14,Checking or savings account,15
+2024-04-14,"Money transfer, virtual currency, or money service",5
+2024-04-15,Checking or savings account,32
+2024-04-15,"Money transfer, virtual currency, or money service",5
+2024-04-16,Checking or savings account,52
+2024-04-16,"Money transfer, virtual currency, or money service",6
+2024-04-17,Checking or savings account,43
+2024-04-17,"Money transfer, virtual currency, or money service",6
+2024-04-18,Checking or savings account,43
+2024-04-18,"Money transfer, virtual currency, or money service",5
+2024-04-19,Checking or savings account,40
+2024-04-19,"Money transfer, virtual currency, or money service",8
+2024-04-20,Checking or savings account,20
+2024-04-20,"Money transfer, virtual currency, or money service",5
+2024-04-21,Checking or savings account,12
+2024-04-21,"Money transfer, virtual currency, or money service",1
+2024-04-22,Checking or savings account,37
+2024-04-22,"Money transfer, virtual currency, or money service",9
+2024-04-23,Checking or savings account,42
+2024-04-23,"Money transfer, virtual currency, or money service",8
+2024-04-24,Checking or savings account,45
+2024-04-24,"Money transfer, virtual currency, or money service",7
+2024-04-25,Checking or savings account,39
+2024-04-25,"Money transfer, virtual currency, or money service",7
+2024-04-26,Checking or savings account,46
+2024-04-26,"Money transfer, virtual currency, or money service",7
+2024-04-27,Checking or savings account,22
+2024-04-27,"Money transfer, virtual currency, or money service",3
+2024-04-28,Checking or savings account,13
+2024-04-28,"Money transfer, virtual currency, or money service",0
+2024-04-29,Checking or savings account,29
+2024-04-29,"Money transfer, virtual currency, or money service",5
+2024-04-30,Checking or savings account,55
+2024-04-30,"Money transfer, virtual currency, or money service",5
+2024-05-01,Checking or savings account,59
+2024-05-01,"Money transfer, virtual currency, or money service",3
+2024-05-02,Checking or savings account,44
+2024-05-02,"Money transfer, virtual currency, or money service",6
+2024-05-03,Checking or savings account,36
+2024-05-03,"Money transfer, virtual currency, or money service",7
+2024-05-04,Checking or savings account,27
+2024-05-04,"Money transfer, virtual currency, or money service",4
+2024-05-05,Checking or savings account,19
+2024-05-05,"Money transfer, virtual currency, or money service",4
+2024-05-06,Checking or savings account,37
+2024-05-06,"Money transfer, virtual currency, or money service",9
+2024-05-07,Checking or savings account,44
+2024-05-07,"Money transfer, virtual currency, or money service",9
+2024-05-08,Checking or savings account,51
+2024-05-08,"Money transfer, virtual currency, or money service",6
+2024-05-09,Checking or savings account,38
+2024-05-09,"Money transfer, virtual currency, or money service",7
+2024-05-10,Checking or savings account,41
+2024-05-10,"Money transfer, virtual currency, or money service",10
+2024-05-11,Checking or savings account,16
+2024-05-11,"Money transfer, virtual currency, or money service",4
+2024-05-12,Checking or savings account,18
+2024-05-12,"Money transfer, virtual currency, or money service",2
+2024-05-13,Checking or savings account,39
+2024-05-13,"Money transfer, virtual currency, or money service",8
+2024-05-14,Checking or savings account,37
+2024-05-14,"Money transfer, virtual currency, or money service",10
+2024-05-15,Checking or savings account,45
+2024-05-15,"Money transfer, virtual currency, or money service",9
+2024-05-16,Checking or savings account,38
+2024-05-16,"Money transfer, virtual currency, or money service",6
+2024-05-17,Checking or savings account,40
+2024-05-17,"Money transfer, virtual currency, or money service",0
+2024-05-18,Checking or savings account,18
+2024-05-18,"Money transfer, virtual currency, or money service",0
+2024-05-19,Checking or savings account,12
+2024-05-19,"Money transfer, virtual currency, or money service",2
+2024-05-20,Checking or savings account,47
+2024-05-20,"Money transfer, virtual currency, or money service",8
+2024-05-21,Checking or savings account,41
+2024-05-21,"Money transfer, virtual currency, or money service",7
+2024-05-22,Checking or savings account,50
+2024-05-22,"Money transfer, virtual currency, or money service",10
+2024-05-23,Checking or savings account,49
+2024-05-23,"Money transfer, virtual currency, or money service",6
+2024-05-24,Checking or savings account,35
+2024-05-24,"Money transfer, virtual currency, or money service",4
+2024-05-25,Checking or savings account,15
+2024-05-25,"Money transfer, virtual currency, or money service",4
+2024-05-26,Checking or savings account,8
+2024-05-26,"Money transfer, virtual currency, or money service",3
+2024-05-27,Checking or savings account,8
+2024-05-27,"Money transfer, virtual currency, or money service",4
+2024-05-28,Checking or savings account,43
+2024-05-28,"Money transfer, virtual currency, or money service",3
+2024-05-29,Checking or savings account,46
+2024-05-29,"Money transfer, virtual currency, or money service",6
+2024-05-30,Checking or savings account,38
+2024-05-30,"Money transfer, virtual currency, or money service",8
+2024-05-31,Checking or savings account,36
+2024-05-31,"Money transfer, virtual currency, or money service",9
+2024-06-01,Checking or savings account,24
+2024-06-01,"Money transfer, virtual currency, or money service",4
+2024-06-02,Checking or savings account,16
+2024-06-02,"Money transfer, virtual currency, or money service",4
+2024-06-03,Checking or savings account,35
+2024-06-03,"Money transfer, virtual currency, or money service",5
+2024-06-04,Checking or savings account,47
+2024-06-04,"Money transfer, virtual currency, or money service",8
+2024-06-05,Checking or savings account,36
+2024-06-05,"Money transfer, virtual currency, or money service",10
+2024-06-06,Checking or savings account,33
+2024-06-06,"Money transfer, virtual currency, or money service",5
+2024-06-07,Checking or savings account,51
+2024-06-07,"Money transfer, virtual currency, or money service",8
+2024-06-08,Checking or savings account,28
+2024-06-08,"Money transfer, virtual currency, or money service",5
+2024-06-09,Checking or savings account,11
+2024-06-09,"Money transfer, virtual currency, or money service",4
+2024-06-10,Checking or savings account,34
+2024-06-10,"Money transfer, virtual currency, or money service",4
+2024-06-11,Checking or savings account,50
+2024-06-11,"Money transfer, virtual currency, or money service",8
+2024-06-12,Checking or savings account,32
+2024-06-12,"Money transfer, virtual currency, or money service",4
+2024-06-13,Checking or savings account,30
+2024-06-13,"Money transfer, virtual currency, or money service",2
+2024-06-14,Checking or savings account,28
+2024-06-14,"Money transfer, virtual currency, or money service",5
+2024-06-15,Checking or savings account,11
+2024-06-15,"Money transfer, virtual currency, or money service",5
+2024-06-16,Checking or savings account,9
+2024-06-16,"Money transfer, virtual currency, or money service",0
+2024-06-17,Checking or savings account,35
+2024-06-17,"Money transfer, virtual currency, or money service",6
+2024-06-18,Checking or savings account,44
+2024-06-18,"Money transfer, virtual currency, or money service",3
+2024-06-19,Checking or savings account,18
+2024-06-19,"Money transfer, virtual currency, or money service",10
+2024-06-20,Checking or savings account,30
+2024-06-20,"Money transfer, virtual currency, or money service",11
+2024-06-21,Checking or savings account,35
+2024-06-21,"Money transfer, virtual currency, or money service",12
+2024-06-22,Checking or savings account,26
+2024-06-22,"Money transfer, virtual currency, or money service",3
+2024-06-23,Checking or savings account,10
+2024-06-23,"Money transfer, virtual currency, or money service",0
+2024-06-24,Checking or savings account,38
+2024-06-24,"Money transfer, virtual currency, or money service",9
+2024-06-25,Checking or savings account,41
+2024-06-25,"Money transfer, virtual currency, or money service",7
+2024-06-26,Checking or savings account,41
+2024-06-26,"Money transfer, virtual currency, or money service",7
+2024-06-27,Checking or savings account,49
+2024-06-27,"Money transfer, virtual currency, or money service",1
+2024-06-28,Checking or savings account,40
+2024-06-28,"Money transfer, virtual currency, or money service",11
+2024-06-29,Checking or savings account,22
+2024-06-29,"Money transfer, virtual currency, or money service",6
+2024-06-30,Checking or savings account,14
+2024-06-30,"Money transfer, virtual currency, or money service",3
+2024-07-01,Checking or savings account,33
+2024-07-01,"Money transfer, virtual currency, or money service",5
+2024-07-02,Checking or savings account,46
+2024-07-02,"Money transfer, virtual currency, or money service",12
+2024-07-03,Checking or savings account,48
+2024-07-03,"Money transfer, virtual currency, or money service",11
+2024-07-04,Checking or savings account,15
+2024-07-04,"Money transfer, virtual currency, or money service",3
+2024-07-05,Checking or savings account,23
+2024-07-05,"Money transfer, virtual currency, or money service",7
+2024-07-06,Checking or savings account,19
+2024-07-06,"Money transfer, virtual currency, or money service",5
+2024-07-07,Checking or savings account,10
+2024-07-07,"Money transfer, virtual currency, or money service",5
+2024-07-08,Checking or savings account,39
+2024-07-08,"Money transfer, virtual currency, or money service",6
+2024-07-09,Checking or savings account,47
+2024-07-09,"Money transfer, virtual currency, or money service",9
+2024-07-10,Checking or savings account,55
+2024-07-10,"Money transfer, virtual currency, or money service",8
+2024-07-11,Checking or savings account,42
+2024-07-11,"Money transfer, virtual currency, or money service",7
+2024-07-12,Checking or savings account,37
+2024-07-12,"Money transfer, virtual currency, or money service",5
+2024-07-13,Checking or savings account,15
+2024-07-13,"Money transfer, virtual currency, or money service",4
+2024-07-14,Checking or savings account,11
+2024-07-14,"Money transfer, virtual currency, or money service",1
+2024-07-15,Checking or savings account,42
+2024-07-15,"Money transfer, virtual currency, or money service",5
+2024-07-16,Checking or savings account,52
+2024-07-16,"Money transfer, virtual currency, or money service",8
+2024-07-17,Checking or savings account,40
+2024-07-17,"Money transfer, virtual currency, or money service",7
+2024-07-18,Checking or savings account,40
+2024-07-18,"Money transfer, virtual currency, or money service",5
+2024-07-19,Checking or savings account,32
+2024-07-19,"Money transfer, virtual currency, or money service",6
+2024-07-20,Checking or savings account,18
+2024-07-20,"Money transfer, virtual currency, or money service",3
+2024-07-21,Checking or savings account,13
+2024-07-21,"Money transfer, virtual currency, or money service",2
+2024-07-22,Checking or savings account,31
+2024-07-22,"Money transfer, virtual currency, or money service",6
+2024-07-23,Checking or savings account,32
+2024-07-23,"Money transfer, virtual currency, or money service",16
+2024-07-24,Checking or savings account,45
+2024-07-24,"Money transfer, virtual currency, or money service",9
+2024-07-25,Checking or savings account,42
+2024-07-25,"Money transfer, virtual currency, or money service",7
+2024-07-26,Checking or savings account,33
+2024-07-26,"Money transfer, virtual currency, or money service",6
+2024-07-27,Checking or savings account,23
+2024-07-27,"Money transfer, virtual currency, or money service",3
+2024-07-28,Checking or savings account,16
+2024-07-28,"Money transfer, virtual currency, or money service",0
+2024-07-29,Checking or savings account,37
+2024-07-29,"Money transfer, virtual currency, or money service",2
+2024-07-30,Checking or savings account,40
+2024-07-30,"Money transfer, virtual currency, or money service",7
+2024-07-31,Checking or savings account,32
+2024-07-31,"Money transfer, virtual currency, or money service",6
+2024-08-01,Checking or savings account,48
+2024-08-01,"Money transfer, virtual currency, or money service",9
+2024-08-02,Checking or savings account,36
+2024-08-02,"Money transfer, virtual currency, or money service",11
+2024-08-03,Checking or savings account,17
+2024-08-03,"Money transfer, virtual currency, or money service",2
+2024-08-04,Checking or savings account,18
+2024-08-04,"Money transfer, virtual currency, or money service",1
+2024-08-05,Checking or savings account,35
+2024-08-05,"Money transfer, virtual currency, or money service",10
+2024-08-06,Checking or savings account,42
+2024-08-06,"Money transfer, virtual currency, or money service",8
+2024-08-07,Checking or savings account,48
+2024-08-07,"Money transfer, virtual currency, or money service",13
+2024-08-08,Checking or savings account,39
+2024-08-08,"Money transfer, virtual currency, or money service",15
+2024-08-09,Checking or savings account,31
+2024-08-09,"Money transfer, virtual currency, or money service",12
+2024-08-10,Checking or savings account,14
+2024-08-10,"Money transfer, virtual currency, or money service",3
+2024-08-11,Checking or savings account,13
+2024-08-11,"Money transfer, virtual currency, or money service",4
+2024-08-12,Checking or savings account,37
+2024-08-12,"Money transfer, virtual currency, or money service",10
+2024-08-13,Checking or savings account,48
+2024-08-13,"Money transfer, virtual currency, or money service",10
+2024-08-14,Checking or savings account,54
+2024-08-14,"Money transfer, virtual currency, or money service",6
+2024-08-15,Checking or savings account,50
+2024-08-15,"Money transfer, virtual currency, or money service",12
+2024-08-16,Checking or savings account,38
+2024-08-16,"Money transfer, virtual currency, or money service",11
+2024-08-17,Checking or savings account,15
+2024-08-17,"Money transfer, virtual currency, or money service",3
+2024-08-18,Checking or savings account,10
+2024-08-18,"Money transfer, virtual currency, or money service",1
+2024-08-19,Checking or savings account,32
+2024-08-19,"Money transfer, virtual currency, or money service",8
+2024-08-20,Checking or savings account,33
+2024-08-20,"Money transfer, virtual currency, or money service",11
+2024-08-21,Checking or savings account,44
+2024-08-21,"Money transfer, virtual currency, or money service",12
+2024-08-22,Checking or savings account,41
+2024-08-22,"Money transfer, virtual currency, or money service",4
+2024-08-23,Checking or savings account,38
+2024-08-23,"Money transfer, virtual currency, or money service",10
+2024-08-24,Checking or savings account,10
+2024-08-24,"Money transfer, virtual currency, or money service",6
+2024-08-25,Checking or savings account,11
+2024-08-25,"Money transfer, virtual currency, or money service",4
+2024-08-26,Checking or savings account,36
+2024-08-26,"Money transfer, virtual currency, or money service",8
+2024-08-27,Checking or savings account,50
+2024-08-27,"Money transfer, virtual currency, or money service",6
+2024-08-28,Checking or savings account,42
+2024-08-28,"Money transfer, virtual currency, or money service",7
+2024-08-29,Checking or savings account,51
+2024-08-29,"Money transfer, virtual currency, or money service",11
+2024-08-30,Checking or savings account,45
+2024-08-30,"Money transfer, virtual currency, or money service",6
+2024-08-31,Checking or savings account,23
+2024-08-31,"Money transfer, virtual currency, or money service",4
+2024-09-01,Checking or savings account,15
+2024-09-01,"Money transfer, virtual currency, or money service",2
+2024-09-02,Checking or savings account,14
+2024-09-02,"Money transfer, virtual currency, or money service",1
+2024-09-03,Checking or savings account,34
+2024-09-03,"Money transfer, virtual currency, or money service",8
+2024-09-04,Checking or savings account,59
+2024-09-04,"Money transfer, virtual currency, or money service",7
+2024-09-05,Checking or savings account,49
+2024-09-05,"Money transfer, virtual currency, or money service",10
+2024-09-06,Checking or savings account,34
+2024-09-06,"Money transfer, virtual currency, or money service",4
+2024-09-07,Checking or savings account,19
+2024-09-07,"Money transfer, virtual currency, or money service",5
+2024-09-08,Checking or savings account,22
+2024-09-08,"Money transfer, virtual currency, or money service",1
+2024-09-09,Checking or savings account,38
+2024-09-09,"Money transfer, virtual currency, or money service",9
+2024-09-10,Checking or savings account,44
+2024-09-10,"Money transfer, virtual currency, or money service",9
+2024-09-11,Checking or savings account,41
+2024-09-11,"Money transfer, virtual currency, or money service",5
+2024-09-12,Checking or savings account,48
+2024-09-12,"Money transfer, virtual currency, or money service",6
+2024-09-13,Checking or savings account,42
+2024-09-13,"Money transfer, virtual currency, or money service",5
+2024-09-14,Checking or savings account,27
+2024-09-14,"Money transfer, virtual currency, or money service",2
+2024-09-15,Checking or savings account,15
+2024-09-15,"Money transfer, virtual currency, or money service",3
+2024-09-16,Checking or savings account,44
+2024-09-16,"Money transfer, virtual currency, or money service",9
+2024-09-17,Checking or savings account,55
+2024-09-17,"Money transfer, virtual currency, or money service",3
+2024-09-18,Checking or savings account,45
+2024-09-18,"Money transfer, virtual currency, or money service",7
+2024-09-19,Checking or savings account,37
+2024-09-19,"Money transfer, virtual currency, or money service",8
+2024-09-20,Checking or savings account,34
+2024-09-20,"Money transfer, virtual currency, or money service",4
+2024-09-21,Checking or savings account,25
+2024-09-21,"Money transfer, virtual currency, or money service",3
+2024-09-22,Checking or savings account,14
+2024-09-22,"Money transfer, virtual currency, or money service",2
+2024-09-23,Checking or savings account,31
+2024-09-23,"Money transfer, virtual currency, or money service",7
+2024-09-24,Checking or savings account,39
+2024-09-24,"Money transfer, virtual currency, or money service",11
+2024-09-25,Checking or savings account,30
+2024-09-25,"Money transfer, virtual currency, or money service",12
+2024-09-26,Checking or savings account,36
+2024-09-26,"Money transfer, virtual currency, or money service",8
+2024-09-27,Checking or savings account,34
+2024-09-27,"Money transfer, virtual currency, or money service",7
+2024-09-28,Checking or savings account,20
+2024-09-28,"Money transfer, virtual currency, or money service",6
+2024-09-29,Checking or savings account,8
+2024-09-29,"Money transfer, virtual currency, or money service",5
+2024-09-30,Checking or savings account,32
+2024-09-30,"Money transfer, virtual currency, or money service",13
+2024-10-01,Checking or savings account,49
+2024-10-01,"Money transfer, virtual currency, or money service",11
+2024-10-02,Checking or savings account,46
+2024-10-02,"Money transfer, virtual currency, or money service",10
+2024-10-03,Checking or savings account,49
+2024-10-03,"Money transfer, virtual currency, or money service",8
+2024-10-04,Checking or savings account,39
+2024-10-04,"Money transfer, virtual currency, or money service",5
+2024-10-05,Checking or savings account,17
+2024-10-05,"Money transfer, virtual currency, or money service",8
+2024-10-06,Checking or savings account,12
+2024-10-06,"Money transfer, virtual currency, or money service",4
+2024-10-07,Checking or savings account,56
+2024-10-07,"Money transfer, virtual currency, or money service",5
+2024-10-08,Checking or savings account,44
+2024-10-08,"Money transfer, virtual currency, or money service",12
+2024-10-09,Checking or savings account,39
+2024-10-09,"Money transfer, virtual currency, or money service",6
+2024-10-10,Checking or savings account,38
+2024-10-10,"Money transfer, virtual currency, or money service",11
+2024-10-11,Checking or savings account,30
+2024-10-11,"Money transfer, virtual currency, or money service",7
+2024-10-12,Checking or savings account,14
+2024-10-12,"Money transfer, virtual currency, or money service",3
+2024-10-13,Checking or savings account,13
+2024-10-13,"Money transfer, virtual currency, or money service",1
+2024-10-14,Checking or savings account,26
+2024-10-14,"Money transfer, virtual currency, or money service",8
+2024-10-15,Checking or savings account,32
+2024-10-15,"Money transfer, virtual currency, or money service",4
+2024-10-16,Checking or savings account,48
+2024-10-16,"Money transfer, virtual currency, or money service",7
+2024-10-17,Checking or savings account,35
+2024-10-17,"Money transfer, virtual currency, or money service",7
+2024-10-18,Checking or savings account,51
+2024-10-18,"Money transfer, virtual currency, or money service",4
+2024-10-19,Checking or savings account,14
+2024-10-19,"Money transfer, virtual currency, or money service",6
+2024-10-20,Checking or savings account,14
+2024-10-20,"Money transfer, virtual currency, or money service",6
+2024-10-21,Checking or savings account,35
+2024-10-21,"Money transfer, virtual currency, or money service",3
+2024-10-22,Checking or savings account,41
+2024-10-22,"Money transfer, virtual currency, or money service",6
+2024-10-23,Checking or savings account,43
+2024-10-23,"Money transfer, virtual currency, or money service",10
+2024-10-24,Checking or savings account,45
+2024-10-24,"Money transfer, virtual currency, or money service",5
+2024-10-25,Checking or savings account,40
+2024-10-25,"Money transfer, virtual currency, or money service",8
+2024-10-26,Checking or savings account,14
+2024-10-26,"Money transfer, virtual currency, or money service",5
+2024-10-27,Checking or savings account,10
+2024-10-27,"Money transfer, virtual currency, or money service",2
+2024-10-28,Checking or savings account,35
+2024-10-28,"Money transfer, virtual currency, or money service",11
+2024-10-29,Checking or savings account,43
+2024-10-29,"Money transfer, virtual currency, or money service",12
+2024-10-30,Checking or savings account,45
+2024-10-30,"Money transfer, virtual currency, or money service",2
+2024-10-31,Checking or savings account,34
+2024-10-31,"Money transfer, virtual currency, or money service",6
+2024-11-01,Checking or savings account,31
+2024-11-01,"Money transfer, virtual currency, or money service",4
+2024-11-02,Checking or savings account,22
+2024-11-02,"Money transfer, virtual currency, or money service",5
+2024-11-03,Checking or savings account,14
+2024-11-03,"Money transfer, virtual currency, or money service",3
+2024-11-04,Checking or savings account,35
+2024-11-04,"Money transfer, virtual currency, or money service",6
+2024-11-05,Checking or savings account,35
+2024-11-05,"Money transfer, virtual currency, or money service",5
+2024-11-06,Checking or savings account,29
+2024-11-06,"Money transfer, virtual currency, or money service",9
+2024-11-07,Checking or savings account,36
+2024-11-07,"Money transfer, virtual currency, or money service",6
+2024-11-08,Checking or savings account,34
+2024-11-08,"Money transfer, virtual currency, or money service",10
+2024-11-09,Checking or savings account,21
+2024-11-09,"Money transfer, virtual currency, or money service",4
+2024-11-10,Checking or savings account,11
+2024-11-10,"Money transfer, virtual currency, or money service",1
+2024-11-11,Checking or savings account,18
+2024-11-11,"Money transfer, virtual currency, or money service",3
+2024-11-12,Checking or savings account,38
+2024-11-12,"Money transfer, virtual currency, or money service",10
+2024-11-13,Checking or savings account,39
+2024-11-13,"Money transfer, virtual currency, or money service",9
+2024-11-14,Checking or savings account,44
+2024-11-14,"Money transfer, virtual currency, or money service",8
+2024-11-15,Checking or savings account,42
+2024-11-15,"Money transfer, virtual currency, or money service",9
+2024-11-16,Checking or savings account,26
+2024-11-16,"Money transfer, virtual currency, or money service",3
+2024-11-17,Checking or savings account,12
+2024-11-17,"Money transfer, virtual currency, or money service",4
+2024-11-18,Checking or savings account,44
+2024-11-18,"Money transfer, virtual currency, or money service",10
+2024-11-19,Checking or savings account,39
+2024-11-19,"Money transfer, virtual currency, or money service",13
+2024-11-20,Checking or savings account,39
+2024-11-20,"Money transfer, virtual currency, or money service",9
+2024-11-21,Checking or savings account,38
+2024-11-21,"Money transfer, virtual currency, or money service",2
+2024-11-22,Checking or savings account,26
+2024-11-22,"Money transfer, virtual currency, or money service",8
+2024-11-23,Checking or savings account,23
+2024-11-23,"Money transfer, virtual currency, or money service",6
+2024-11-24,Checking or savings account,8
+2024-11-24,"Money transfer, virtual currency, or money service",4
+2024-11-25,Checking or savings account,34
+2024-11-25,"Money transfer, virtual currency, or money service",8
+2024-11-26,Checking or savings account,44
+2024-11-26,"Money transfer, virtual currency, or money service",6
+2024-11-27,Checking or savings account,34
+2024-11-27,"Money transfer, virtual currency, or money service",10
+2024-11-28,Checking or savings account,18
+2024-11-28,"Money transfer, virtual currency, or money service",2
+2024-11-29,Checking or savings account,19
+2024-11-29,"Money transfer, virtual currency, or money service",4
+2024-11-30,Checking or savings account,23
+2024-11-30,"Money transfer, virtual currency, or money service",1
+2024-12-01,Checking or savings account,12
+2024-12-01,"Money transfer, virtual currency, or money service",4
+2024-12-02,Checking or savings account,35
+2024-12-02,"Money transfer, virtual currency, or money service",7
+2024-12-03,Checking or savings account,41
+2024-12-03,"Money transfer, virtual currency, or money service",9
+2024-12-04,Checking or savings account,39
+2024-12-04,"Money transfer, virtual currency, or money service",9
+2024-12-05,Checking or savings account,44
+2024-12-05,"Money transfer, virtual currency, or money service",7
+2024-12-06,Checking or savings account,38
+2024-12-06,"Money transfer, virtual currency, or money service",5
+2024-12-07,Checking or savings account,16
+2024-12-07,"Money transfer, virtual currency, or money service",2
+2024-12-08,Checking or savings account,15
+2024-12-08,"Money transfer, virtual currency, or money service",5
+2024-12-09,Checking or savings account,27
+2024-12-09,"Money transfer, virtual currency, or money service",8
+2024-12-10,Checking or savings account,47
+2024-12-10,"Money transfer, virtual currency, or money service",7
+2024-12-11,Checking or savings account,37
+2024-12-11,"Money transfer, virtual currency, or money service",8
+2024-12-12,Checking or savings account,48
+2024-12-12,"Money transfer, virtual currency, or money service",4
+2024-12-13,Checking or savings account,35
+2024-12-13,"Money transfer, virtual currency, or money service",4
+2024-12-14,Checking or savings account,24
+2024-12-14,"Money transfer, virtual currency, or money service",4
+2024-12-15,Checking or savings account,16
+2024-12-15,"Money transfer, virtual currency, or money service",1
+2024-12-16,Checking or savings account,41
+2024-12-16,"Money transfer, virtual currency, or money service",12
+2024-12-17,Checking or savings account,50
+2024-12-17,"Money transfer, virtual currency, or money service",7
+2024-12-18,Checking or savings account,54
+2024-12-18,"Money transfer, virtual currency, or money service",6
+2024-12-19,Checking or savings account,40
+2024-12-19,"Money transfer, virtual currency, or money service",4
+2024-12-20,Checking or savings account,47
+2024-12-20,"Money transfer, virtual currency, or money service",12
+2024-12-21,Checking or savings account,35
+2024-12-21,"Money transfer, virtual currency, or money service",14
+2024-12-22,Checking or savings account,15
+2024-12-22,"Money transfer, virtual currency, or money service",8
+2024-12-23,Checking or savings account,38
+2024-12-23,"Money transfer, virtual currency, or money service",18
+2024-12-24,Checking or savings account,37
+2024-12-24,"Money transfer, virtual currency, or money service",10
+2024-12-25,Checking or savings account,11
+2024-12-25,"Money transfer, virtual currency, or money service",4
+2024-12-26,Checking or savings account,39
+2024-12-26,"Money transfer, virtual currency, or money service",8
+2024-12-27,Checking or savings account,50
+2024-12-27,"Money transfer, virtual currency, or money service",11
+2024-12-28,Checking or savings account,32
+2024-12-28,"Money transfer, virtual currency, or money service",2
+2024-12-29,Checking or savings account,11
+2024-12-29,"Money transfer, virtual currency, or money service",6
+2024-12-30,Checking or savings account,28
+2024-12-30,"Money transfer, virtual currency, or money service",9
+2024-12-31,Checking or savings account,39
+2024-12-31,"Money transfer, virtual currency, or money service",6
+2025-01-01,Checking or savings account,18
+2025-01-01,"Money transfer, virtual currency, or money service",5
+2025-01-02,Checking or savings account,40
+2025-01-02,"Money transfer, virtual currency, or money service",10
+2025-01-03,Checking or savings account,48
+2025-01-03,"Money transfer, virtual currency, or money service",13
+2025-01-04,Checking or savings account,21
+2025-01-04,"Money transfer, virtual currency, or money service",4
+2025-01-05,Checking or savings account,17
+2025-01-05,"Money transfer, virtual currency, or money service",5
+2025-01-06,Checking or savings account,45
+2025-01-06,"Money transfer, virtual currency, or money service",12
+2025-01-07,Checking or savings account,52
+2025-01-07,"Money transfer, virtual currency, or money service",10
+2025-01-08,Checking or savings account,40
+2025-01-08,"Money transfer, virtual currency, or money service",4
+2025-01-09,Checking or savings account,39
+2025-01-09,"Money transfer, virtual currency, or money service",7
+2025-01-10,Checking or savings account,39
+2025-01-10,"Money transfer, virtual currency, or money service",7
+2025-01-11,Checking or savings account,22
+2025-01-11,"Money transfer, virtual currency, or money service",7
+2025-01-12,Checking or savings account,10
+2025-01-12,"Money transfer, virtual currency, or money service",1
+2025-01-13,Checking or savings account,52
+2025-01-13,"Money transfer, virtual currency, or money service",7
+2025-01-14,Checking or savings account,67
+2025-01-14,"Money transfer, virtual currency, or money service",36
+2025-01-15,Checking or savings account,106
+2025-01-15,"Money transfer, virtual currency, or money service",176
+2025-01-16,Checking or savings account,107
+2025-01-16,"Money transfer, virtual currency, or money service",106
+2025-01-17,Checking or savings account,88
+2025-01-17,"Money transfer, virtual currency, or money service",64
+2025-01-18,Checking or savings account,78
+2025-01-18,"Money transfer, virtual currency, or money service",106
+2025-01-19,Checking or savings account,41
+2025-01-19,"Money transfer, virtual currency, or money service",42
+2025-01-20,Checking or savings account,44
+2025-01-20,"Money transfer, virtual currency, or money service",38
+2025-01-21,Checking or savings account,56
+2025-01-21,"Money transfer, virtual currency, or money service",35
+2025-01-22,Checking or savings account,67
+2025-01-22,"Money transfer, virtual currency, or money service",32
+2025-01-23,Checking or savings account,59
+2025-01-23,"Money transfer, virtual currency, or money service",28
+2025-01-24,Checking or savings account,68
+2025-01-24,"Money transfer, virtual currency, or money service",15
+2025-01-25,Checking or savings account,25
+2025-01-25,"Money transfer, virtual currency, or money service",14
+2025-01-26,Checking or savings account,30
+2025-01-26,"Money transfer, virtual currency, or money service",10
+2025-01-27,Checking or savings account,50
+2025-01-27,"Money transfer, virtual currency, or money service",13
+2025-01-28,Checking or savings account,55
+2025-01-28,"Money transfer, virtual currency, or money service",11
+2025-01-29,Checking or savings account,39
+2025-01-29,"Money transfer, virtual currency, or money service",20
+2025-01-30,Checking or savings account,36
+2025-01-30,"Money transfer, virtual currency, or money service",20
+2025-01-31,Checking or savings account,47
+2025-01-31,"Money transfer, virtual currency, or money service",16
+2025-02-01,Checking or savings account,24
+2025-02-01,"Money transfer, virtual currency, or money service",7
+2025-02-02,Checking or savings account,20
+2025-02-02,"Money transfer, virtual currency, or money service",5
+2025-02-03,Checking or savings account,36
+2025-02-03,"Money transfer, virtual currency, or money service",11
+2025-02-04,Checking or savings account,46
+2025-02-04,"Money transfer, virtual currency, or money service",9
+2025-02-05,Checking or savings account,53
+2025-02-05,"Money transfer, virtual currency, or money service",12
+2025-02-06,Checking or savings account,47
+2025-02-06,"Money transfer, virtual currency, or money service",11
+2025-02-07,Checking or savings account,38
+2025-02-07,"Money transfer, virtual currency, or money service",10
+2025-02-08,Checking or savings account,24
+2025-02-08,"Money transfer, virtual currency, or money service",4
+2025-02-09,Checking or savings account,29
+2025-02-09,"Money transfer, virtual currency, or money service",5
+2025-02-10,Checking or savings account,39
+2025-02-10,"Money transfer, virtual currency, or money service",11
+2025-02-11,Checking or savings account,54
+2025-02-11,"Money transfer, virtual currency, or money service",10
+2025-02-12,Checking or savings account,44
+2025-02-12,"Money transfer, virtual currency, or money service",9
+2025-02-13,Checking or savings account,47
+2025-02-13,"Money transfer, virtual currency, or money service",7
+2025-02-14,Checking or savings account,29
+2025-02-14,"Money transfer, virtual currency, or money service",9
+2025-02-15,Checking or savings account,22
+2025-02-15,"Money transfer, virtual currency, or money service",3
+2025-02-16,Checking or savings account,17
+2025-02-16,"Money transfer, virtual currency, or money service",6
+2025-02-17,Checking or savings account,20
+2025-02-17,"Money transfer, virtual currency, or money service",7
+2025-02-18,Checking or savings account,41
+2025-02-18,"Money transfer, virtual currency, or money service",7
+2025-02-19,Checking or savings account,58
+2025-02-19,"Money transfer, virtual currency, or money service",8
+2025-02-20,Checking or savings account,42
+2025-02-20,"Money transfer, virtual currency, or money service",7
+2025-02-21,Checking or savings account,47
+2025-02-21,"Money transfer, virtual currency, or money service",13
+2025-02-22,Checking or savings account,17
+2025-02-22,"Money transfer, virtual currency, or money service",5
+2025-02-23,Checking or savings account,17
+2025-02-23,"Money transfer, virtual currency, or money service",2
+2025-02-24,Checking or savings account,36
+2025-02-24,"Money transfer, virtual currency, or money service",18
+2025-02-25,Checking or savings account,44
+2025-02-25,"Money transfer, virtual currency, or money service",16
+2025-02-26,Checking or savings account,40
+2025-02-26,"Money transfer, virtual currency, or money service",13
+2025-02-27,Checking or savings account,50
+2025-02-27,"Money transfer, virtual currency, or money service",8
+2025-02-28,Checking or savings account,44
+2025-02-28,"Money transfer, virtual currency, or money service",13
+2025-03-01,Checking or savings account,30
+2025-03-01,"Money transfer, virtual currency, or money service",4
+2025-03-02,Checking or savings account,13
+2025-03-02,"Money transfer, virtual currency, or money service",1
+2025-03-03,Checking or savings account,35
+2025-03-03,"Money transfer, virtual currency, or money service",7
+2025-03-04,Checking or savings account,34
+2025-03-04,"Money transfer, virtual currency, or money service",6
+2025-03-05,Checking or savings account,47
+2025-03-05,"Money transfer, virtual currency, or money service",9
+2025-03-06,Checking or savings account,41
+2025-03-06,"Money transfer, virtual currency, or money service",4
+2025-03-07,Checking or savings account,42
+2025-03-07,"Money transfer, virtual currency, or money service",8
+2025-03-08,Checking or savings account,30
+2025-03-08,"Money transfer, virtual currency, or money service",7
+2025-03-09,Checking or savings account,11
+2025-03-09,"Money transfer, virtual currency, or money service",4
+2025-03-10,Checking or savings account,28
+2025-03-10,"Money transfer, virtual currency, or money service",10
+2025-03-11,Checking or savings account,45
+2025-03-11,"Money transfer, virtual currency, or money service",5
+2025-03-12,Checking or savings account,54
+2025-03-12,"Money transfer, virtual currency, or money service",13
+2025-03-13,Checking or savings account,42
+2025-03-13,"Money transfer, virtual currency, or money service",9
+2025-03-14,Checking or savings account,46
+2025-03-14,"Money transfer, virtual currency, or money service",17
+2025-03-15,Checking or savings account,19
+2025-03-15,"Money transfer, virtual currency, or money service",4
+2025-03-16,Checking or savings account,11
+2025-03-16,"Money transfer, virtual currency, or money service",3
+2025-03-17,Checking or savings account,43
+2025-03-17,"Money transfer, virtual currency, or money service",8
+2025-03-18,Checking or savings account,40
+2025-03-18,"Money transfer, virtual currency, or money service",8
+2025-03-19,Checking or savings account,42
+2025-03-19,"Money transfer, virtual currency, or money service",9
+2025-03-20,Checking or savings account,54
+2025-03-20,"Money transfer, virtual currency, or money service",13
+2025-03-21,Checking or savings account,46
+2025-03-21,"Money transfer, virtual currency, or money service",9
+2025-03-22,Checking or savings account,17
+2025-03-22,"Money transfer, virtual currency, or money service",4
+2025-03-23,Checking or savings account,11
+2025-03-23,"Money transfer, virtual currency, or money service",2
+2025-03-24,Checking or savings account,41
+2025-03-24,"Money transfer, virtual currency, or money service",10
+2025-03-25,Checking or savings account,56
+2025-03-25,"Money transfer, virtual currency, or money service",12
+2025-03-26,Checking or savings account,36
+2025-03-26,"Money transfer, virtual currency, or money service",7
+2025-03-27,Checking or savings account,45
+2025-03-27,"Money transfer, virtual currency, or money service",17
+2025-03-28,Checking or savings account,34
+2025-03-28,"Money transfer, virtual currency, or money service",9
+2025-03-29,Checking or savings account,19
+2025-03-29,"Money transfer, virtual currency, or money service",5
+2025-03-30,Checking or savings account,11
+2025-03-30,"Money transfer, virtual currency, or money service",3
+2025-03-31,Checking or savings account,46
+2025-03-31,"Money transfer, virtual currency, or money service",1
+2025-04-01,Checking or savings account,39
+2025-04-01,"Money transfer, virtual currency, or money service",12
+2025-04-02,Checking or savings account,43
+2025-04-02,"Money transfer, virtual currency, or money service",11
+2025-04-03,Checking or savings account,40
+2025-04-03,"Money transfer, virtual currency, or money service",6
+2025-04-04,Checking or savings account,53
+2025-04-04,"Money transfer, virtual currency, or money service",8
+2025-04-05,Checking or savings account,31
+2025-04-05,"Money transfer, virtual currency, or money service",4
+2025-04-06,Checking or savings account,10
+2025-04-06,"Money transfer, virtual currency, or money service",5
+2025-04-07,Checking or savings account,39
+2025-04-07,"Money transfer, virtual currency, or money service",5
+2025-04-08,Checking or savings account,53
+2025-04-08,"Money transfer, virtual currency, or money service",8
+2025-04-09,Checking or savings account,42
+2025-04-09,"Money transfer, virtual currency, or money service",10
+2025-04-10,Checking or savings account,50
+2025-04-10,"Money transfer, virtual currency, or money service",7
+2025-04-11,Checking or savings account,42
+2025-04-11,"Money transfer, virtual currency, or money service",10
+2025-04-12,Checking or savings account,22
+2025-04-12,"Money transfer, virtual currency, or money service",3
+2025-04-13,Checking or savings account,9
+2025-04-13,"Money transfer, virtual currency, or money service",3
+2025-04-14,Checking or savings account,30
+2025-04-14,"Money transfer, virtual currency, or money service",5
+2025-04-15,Checking or savings account,51
+2025-04-15,"Money transfer, virtual currency, or money service",11
+2025-04-16,Checking or savings account,36
+2025-04-16,"Money transfer, virtual currency, or money service",9
+2025-04-17,Checking or savings account,50
+2025-04-17,"Money transfer, virtual currency, or money service",10
+2025-04-18,Checking or savings account,41
+2025-04-18,"Money transfer, virtual currency, or money service",14
+2025-04-19,Checking or savings account,27
+2025-04-19,"Money transfer, virtual currency, or money service",5
+2025-04-20,Checking or savings account,14
+2025-04-20,"Money transfer, virtual currency, or money service",0
+2025-04-21,Checking or savings account,35
+2025-04-21,"Money transfer, virtual currency, or money service",6
+2025-04-22,Checking or savings account,38
+2025-04-22,"Money transfer, virtual currency, or money service",7
+2025-04-23,Checking or savings account,47
+2025-04-23,"Money transfer, virtual currency, or money service",12
+2025-04-24,Checking or savings account,39
+2025-04-24,"Money transfer, virtual currency, or money service",9
+2025-04-25,Checking or savings account,40
+2025-04-25,"Money transfer, virtual currency, or money service",7
+2025-04-26,Checking or savings account,24
+2025-04-26,"Money transfer, virtual currency, or money service",1
+2025-04-27,Checking or savings account,13
+2025-04-27,"Money transfer, virtual currency, or money service",1
+2025-04-28,Checking or savings account,36
+2025-04-28,"Money transfer, virtual currency, or money service",10
+2025-04-29,Checking or savings account,56
+2025-04-29,"Money transfer, virtual currency, or money service",9
+2025-04-30,Checking or savings account,48
+2025-04-30,"Money transfer, virtual currency, or money service",10
+2025-05-01,Checking or savings account,53
+2025-05-01,"Money transfer, virtual currency, or money service",7
+2025-05-02,Checking or savings account,45
+2025-05-02,"Money transfer, virtual currency, or money service",15
+2025-05-03,Checking or savings account,27
+2025-05-03,"Money transfer, virtual currency, or money service",2
+2025-05-04,Checking or savings account,11
+2025-05-04,"Money transfer, virtual currency, or money service",3
+2025-05-05,Checking or savings account,60
+2025-05-05,"Money transfer, virtual currency, or money service",3
+2025-05-06,Checking or savings account,54
+2025-05-06,"Money transfer, virtual currency, or money service",8
+2025-05-07,Checking or savings account,49
+2025-05-07,"Money transfer, virtual currency, or money service",6
+2025-05-08,Checking or savings account,37
+2025-05-08,"Money transfer, virtual currency, or money service",6
+2025-05-09,Checking or savings account,48
+2025-05-09,"Money transfer, virtual currency, or money service",8
+2025-05-10,Checking or savings account,32
+2025-05-10,"Money transfer, virtual currency, or money service",1
+2025-05-11,Checking or savings account,17
+2025-05-11,"Money transfer, virtual currency, or money service",7
+2025-05-12,Checking or savings account,46
+2025-05-12,"Money transfer, virtual currency, or money service",6
+2025-05-13,Checking or savings account,47
+2025-05-13,"Money transfer, virtual currency, or money service",11
+2025-05-14,Checking or savings account,50
+2025-05-14,"Money transfer, virtual currency, or money service",6
+2025-05-15,Checking or savings account,51
+2025-05-15,"Money transfer, virtual currency, or money service",14
+2025-05-16,Checking or savings account,44
+2025-05-16,"Money transfer, virtual currency, or money service",9
+2025-05-17,Checking or savings account,28
+2025-05-17,"Money transfer, virtual currency, or money service",3
+2025-05-18,Checking or savings account,15
+2025-05-18,"Money transfer, virtual currency, or money service",1
+2025-05-19,Checking or savings account,40
+2025-05-19,"Money transfer, virtual currency, or money service",4
+2025-05-20,Checking or savings account,56
+2025-05-20,"Money transfer, virtual currency, or money service",8
+2025-05-21,Checking or savings account,57
+2025-05-21,"Money transfer, virtual currency, or money service",6
+2025-05-22,Checking or savings account,63
+2025-05-22,"Money transfer, virtual currency, or money service",14
+2025-05-23,Checking or savings account,46
+2025-05-23,"Money transfer, virtual currency, or money service",10
+2025-05-24,Checking or savings account,25
+2025-05-24,"Money transfer, virtual currency, or money service",6
+2025-05-25,Checking or savings account,17
+2025-05-25,"Money transfer, virtual currency, or money service",2
+2025-05-26,Checking or savings account,14
+2025-05-26,"Money transfer, virtual currency, or money service",3
+2025-05-27,Checking or savings account,50
+2025-05-27,"Money transfer, virtual currency, or money service",10
+2025-05-28,Checking or savings account,53
+2025-05-28,"Money transfer, virtual currency, or money service",14
+2025-05-29,Checking or savings account,52
+2025-05-29,"Money transfer, virtual currency, or money service",14
+2025-05-30,Checking or savings account,42
+2025-05-30,"Money transfer, virtual currency, or money service",11
+2025-05-31,Checking or savings account,30
+2025-05-31,"Money transfer, virtual currency, or money service",5
+2025-06-01,Checking or savings account,15
+2025-06-01,"Money transfer, virtual currency, or money service",4
+2025-06-02,Checking or savings account,53
+2025-06-02,"Money transfer, virtual currency, or money service",5
+2025-06-03,Checking or savings account,54
+2025-06-03,"Money transfer, virtual currency, or money service",10
+2025-06-04,Checking or savings account,46
+2025-06-04,"Money transfer, virtual currency, or money service",8
+2025-06-05,Checking or savings account,49
+2025-06-05,"Money transfer, virtual currency, or money service",8
+2025-06-06,Checking or savings account,49
+2025-06-06,"Money transfer, virtual currency, or money service",11
+2025-06-07,Checking or savings account,23
+2025-06-07,"Money transfer, virtual currency, or money service",3
+2025-06-08,Checking or savings account,20
+2025-06-08,"Money transfer, virtual currency, or money service",3
+2025-06-09,Checking or savings account,48
+2025-06-09,"Money transfer, virtual currency, or money service",8
+2025-06-10,Checking or savings account,48
+2025-06-10,"Money transfer, virtual currency, or money service",8
+2025-06-11,Checking or savings account,55
+2025-06-11,"Money transfer, virtual currency, or money service",9
+2025-06-12,Checking or savings account,51
+2025-06-12,"Money transfer, virtual currency, or money service",9
+2025-06-13,Checking or savings account,48
+2025-06-13,"Money transfer, virtual currency, or money service",9
+2025-06-14,Checking or savings account,17
+2025-06-14,"Money transfer, virtual currency, or money service",7
+2025-06-15,Checking or savings account,21
+2025-06-15,"Money transfer, virtual currency, or money service",2
+2025-06-16,Checking or savings account,38
+2025-06-16,"Money transfer, virtual currency, or money service",12
+2025-06-17,Checking or savings account,58
+2025-06-17,"Money transfer, virtual currency, or money service",8
+2025-06-18,Checking or savings account,52
+2025-06-18,"Money transfer, virtual currency, or money service",5
+2025-06-19,Checking or savings account,30
+2025-06-19,"Money transfer, virtual currency, or money service",5
+2025-06-20,Checking or savings account,45
+2025-06-20,"Money transfer, virtual currency, or money service",4
+2025-06-21,Checking or savings account,29
+2025-06-21,"Money transfer, virtual currency, or money service",1
+2025-06-22,Checking or savings account,28
+2025-06-22,"Money transfer, virtual currency, or money service",7
+2025-06-23,Checking or savings account,63
+2025-06-23,"Money transfer, virtual currency, or money service",7
+2025-06-24,Checking or savings account,50
+2025-06-24,"Money transfer, virtual currency, or money service",4
+2025-06-25,Checking or savings account,58
+2025-06-25,"Money transfer, virtual currency, or money service",8
+2025-06-26,Checking or savings account,53
+2025-06-26,"Money transfer, virtual currency, or money service",5
+2025-06-27,Checking or savings account,49
+2025-06-27,"Money transfer, virtual currency, or money service",6
+2025-06-28,Checking or savings account,14
+2025-06-28,"Money transfer, virtual currency, or money service",7
+2025-06-29,Checking or savings account,14
+2025-06-29,"Money transfer, virtual currency, or money service",2
+2025-06-30,Checking or savings account,50
+2025-06-30,"Money transfer, virtual currency, or money service",10
+2025-07-01,Checking or savings account,75
+2025-07-01,"Money transfer, virtual currency, or money service",8
+2025-07-02,Checking or savings account,62
+2025-07-02,"Money transfer, virtual currency, or money service",12
+2025-07-03,Checking or savings account,56
+2025-07-03,"Money transfer, virtual currency, or money service",9
+2025-07-04,Checking or savings account,28
+2025-07-04,"Money transfer, virtual currency, or money service",10
+2025-07-05,Checking or savings account,14
+2025-07-05,"Money transfer, virtual currency, or money service",8
+2025-07-06,Checking or savings account,16
+2025-07-06,"Money transfer, virtual currency, or money service",4
+2025-07-07,Checking or savings account,54
+2025-07-07,"Money transfer, virtual currency, or money service",8
+2025-07-08,Checking or savings account,55
+2025-07-08,"Money transfer, virtual currency, or money service",12
+2025-07-09,Checking or savings account,60
+2025-07-09,"Money transfer, virtual currency, or money service",16
+2025-07-10,Checking or savings account,59
+2025-07-10,"Money transfer, virtual currency, or money service",5
+2025-07-11,Checking or savings account,66
+2025-07-11,"Money transfer, virtual currency, or money service",10
+2025-07-12,Checking or savings account,26
+2025-07-12,"Money transfer, virtual currency, or money service",4
+2025-07-13,Checking or savings account,28
+2025-07-13,"Money transfer, virtual currency, or money service",3
+2025-07-14,Checking or savings account,58
+2025-07-14,"Money transfer, virtual currency, or money service",10
+2025-07-15,Checking or savings account,64
+2025-07-15,"Money transfer, virtual currency, or money service",9
+2025-07-16,Checking or savings account,42
+2025-07-16,"Money transfer, virtual currency, or money service",14
+2025-07-17,Checking or savings account,52
+2025-07-17,"Money transfer, virtual currency, or money service",13
+2025-07-18,Checking or savings account,59
+2025-07-18,"Money transfer, virtual currency, or money service",4
+2025-07-19,Checking or savings account,28
+2025-07-19,"Money transfer, virtual currency, or money service",5
+2025-07-20,Checking or savings account,22
+2025-07-20,"Money transfer, virtual currency, or money service",5
+2025-07-21,Checking or savings account,40
+2025-07-21,"Money transfer, virtual currency, or money service",12
+2025-07-22,Checking or savings account,65
+2025-07-22,"Money transfer, virtual currency, or money service",9
+2025-07-23,Checking or savings account,56
+2025-07-23,"Money transfer, virtual currency, or money service",17
+2025-07-24,Checking or savings account,55
+2025-07-24,"Money transfer, virtual currency, or money service",13
+2025-07-25,Checking or savings account,67
+2025-07-25,"Money transfer, virtual currency, or money service",14
+2025-07-26,Checking or savings account,27
+2025-07-26,"Money transfer, virtual currency, or money service",6
+2025-07-27,Checking or savings account,20
+2025-07-27,"Money transfer, virtual currency, or money service",8
+2025-07-28,Checking or savings account,49
+2025-07-28,"Money transfer, virtual currency, or money service",9
+2025-07-29,Checking or savings account,61
+2025-07-29,"Money transfer, virtual currency, or money service",10
+2025-07-30,Checking or savings account,47
+2025-07-30,"Money transfer, virtual currency, or money service",12
+2025-07-31,Checking or savings account,65
+2025-07-31,"Money transfer, virtual currency, or money service",15
+2025-08-01,Checking or savings account,71
+2025-08-01,"Money transfer, virtual currency, or money service",17
+2025-08-02,Checking or savings account,29
+2025-08-02,"Money transfer, virtual currency, or money service",7
+2025-08-03,Checking or savings account,19
+2025-08-03,"Money transfer, virtual currency, or money service",6
+2025-08-04,Checking or savings account,37
+2025-08-04,"Money transfer, virtual currency, or money service",13
+2025-08-05,Checking or savings account,58
+2025-08-05,"Money transfer, virtual currency, or money service",14
+2025-08-06,Checking or savings account,51
+2025-08-06,"Money transfer, virtual currency, or money service",10
+2025-08-07,Checking or savings account,48
+2025-08-07,"Money transfer, virtual currency, or money service",10
+2025-08-08,Checking or savings account,58
+2025-08-08,"Money transfer, virtual currency, or money service",6
+2025-08-09,Checking or savings account,20
+2025-08-09,"Money transfer, virtual currency, or money service",5
+2025-08-10,Checking or savings account,17
+2025-08-10,"Money transfer, virtual currency, or money service",2
+2025-08-11,Checking or savings account,46
+2025-08-11,"Money transfer, virtual currency, or money service",11
+2025-08-12,Checking or savings account,58
+2025-08-12,"Money transfer, virtual currency, or money service",15
+2025-08-13,Checking or savings account,50
+2025-08-13,"Money transfer, virtual currency, or money service",22
+2025-08-14,Checking or savings account,66
+2025-08-14,"Money transfer, virtual currency, or money service",14
+2025-08-15,Checking or savings account,65
+2025-08-15,"Money transfer, virtual currency, or money service",11
+2025-08-16,Checking or savings account,20
+2025-08-16,"Money transfer, virtual currency, or money service",2
+2025-08-17,Checking or savings account,18
+2025-08-17,"Money transfer, virtual currency, or money service",8
+2025-08-18,Checking or savings account,46
+2025-08-18,"Money transfer, virtual currency, or money service",9
+2025-08-19,Checking or savings account,77
+2025-08-19,"Money transfer, virtual currency, or money service",14
+2025-08-20,Checking or savings account,72
+2025-08-20,"Money transfer, virtual currency, or money service",24
+2025-08-21,Checking or savings account,62
+2025-08-21,"Money transfer, virtual currency, or money service",9
+2025-08-22,Checking or savings account,58
+2025-08-22,"Money transfer, virtual currency, or money service",12
+2025-08-23,Checking or savings account,31
+2025-08-23,"Money transfer, virtual currency, or money service",7
+2025-08-24,Checking or savings account,22
+2025-08-24,"Money transfer, virtual currency, or money service",3
+2025-08-25,Checking or savings account,59
+2025-08-25,"Money transfer, virtual currency, or money service",8
+2025-08-26,Checking or savings account,39
+2025-08-26,"Money transfer, virtual currency, or money service",28
+2025-08-27,Checking or savings account,46
+2025-08-27,"Money transfer, virtual currency, or money service",9
+2025-08-28,Checking or savings account,60
+2025-08-28,"Money transfer, virtual currency, or money service",13
+2025-08-29,Checking or savings account,54
+2025-08-29,"Money transfer, virtual currency, or money service",9
+2025-08-30,Checking or savings account,25
+2025-08-30,"Money transfer, virtual currency, or money service",2
+2025-08-31,Checking or savings account,17
+2025-08-31,"Money transfer, virtual currency, or money service",3
+2025-09-01,Checking or savings account,20
+2025-09-01,"Money transfer, virtual currency, or money service",4
+2025-09-02,Checking or savings account,48
+2025-09-02,"Money transfer, virtual currency, or money service",7
+2025-09-03,Checking or savings account,55
+2025-09-03,"Money transfer, virtual currency, or money service",8
+2025-09-04,Checking or savings account,66
+2025-09-04,"Money transfer, virtual currency, or money service",10
+2025-09-05,Checking or savings account,49
+2025-09-05,"Money transfer, virtual currency, or money service",20
+2025-09-06,Checking or savings account,25
+2025-09-06,"Money transfer, virtual currency, or money service",4
+2025-09-07,Checking or savings account,14
+2025-09-07,"Money transfer, virtual currency, or money service",2
+2025-09-08,Checking or savings account,45
+2025-09-08,"Money transfer, virtual currency, or money service",8
+2025-09-09,Checking or savings account,59
+2025-09-09,"Money transfer, virtual currency, or money service",3
+2025-09-10,Checking or savings account,50
+2025-09-10,"Money transfer, virtual currency, or money service",14
+2025-09-11,Checking or savings account,54
+2025-09-11,"Money transfer, virtual currency, or money service",8
+2025-09-12,Checking or savings account,52
+2025-09-12,"Money transfer, virtual currency, or money service",6
+2025-09-13,Checking or savings account,33
+2025-09-13,"Money transfer, virtual currency, or money service",4
+2025-09-14,Checking or savings account,18
+2025-09-14,"Money transfer, virtual currency, or money service",3
+2025-09-15,Checking or savings account,49
+2025-09-15,"Money transfer, virtual currency, or money service",5
+2025-09-16,Checking or savings account,54
+2025-09-16,"Money transfer, virtual currency, or money service",8
+2025-09-17,Checking or savings account,60
+2025-09-17,"Money transfer, virtual currency, or money service",9
+2025-09-18,Checking or savings account,39
+2025-09-18,"Money transfer, virtual currency, or money service",8
+2025-09-19,Checking or savings account,52
+2025-09-19,"Money transfer, virtual currency, or money service",4
+2025-09-20,Checking or savings account,18
+2025-09-20,"Money transfer, virtual currency, or money service",2
+2025-09-21,Checking or savings account,18
+2025-09-21,"Money transfer, virtual currency, or money service",4
+2025-09-22,Checking or savings account,44
+2025-09-22,"Money transfer, virtual currency, or money service",5
+2025-09-23,Checking or savings account,45
+2025-09-23,"Money transfer, virtual currency, or money service",10
+2025-09-24,Checking or savings account,67
+2025-09-24,"Money transfer, virtual currency, or money service",10
+2025-09-25,Checking or savings account,45
+2025-09-25,"Money transfer, virtual currency, or money service",8
+2025-09-26,Checking or savings account,52
+2025-09-26,"Money transfer, virtual currency, or money service",6
+2025-09-27,Checking or savings account,29
+2025-09-27,"Money transfer, virtual currency, or money service",3
+2025-09-28,Checking or savings account,13
+2025-09-28,"Money transfer, virtual currency, or money service",1
+2025-09-29,Checking or savings account,29
+2025-09-29,"Money transfer, virtual currency, or money service",5
+2025-09-30,Checking or savings account,25
+2025-09-30,"Money transfer, virtual currency, or money service",0

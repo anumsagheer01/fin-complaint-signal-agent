@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# regenerable build artifact - large, run src/retrieval.py to rebuild
+data/processed/retrieval_index.pkl

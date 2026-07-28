@@ -1,0 +1,201 @@
+query_doc_id,true_issue,true_category,self_retrieved,issue_match_at_k,category_match_at_k,top1_issue_match
+doc_010477,Incorrect exchange rate,"Money transfer, virtual currency, or money service",True,True,True,False
+doc_001825,Managing an account,Checking or savings account,True,True,True,True
+doc_000410,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_012150,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_004507,Opening an account,Checking or savings account,True,True,True,True
+doc_004013,Managing an account,Checking or savings account,True,True,True,True
+doc_003658,Managing an account,Checking or savings account,True,True,True,True
+doc_002287,Managing an account,Checking or savings account,True,True,True,True
+doc_012067,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_001680,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_011088,Closing an account,Checking or savings account,False,True,True,False
+doc_012136,Managing an account,Checking or savings account,True,True,True,True
+doc_014618,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_008936,Managing an account,Checking or savings account,True,True,True,True
+doc_001425,Managing an account,Checking or savings account,True,True,True,True
+doc_009675,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_006913,Opening an account,Checking or savings account,True,True,True,True
+doc_000521,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_000489,Managing an account,Checking or savings account,True,True,True,True
+doc_001536,Opening an account,Checking or savings account,True,True,True,True
+doc_003583,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_003812,Managing an account,Checking or savings account,True,True,True,True
+doc_008280,Closing an account,Checking or savings account,True,True,True,True
+doc_009864,Closing an account,Checking or savings account,True,True,True,False
+doc_000435,Managing an account,Checking or savings account,True,True,True,True
+doc_009196,Managing an account,Checking or savings account,True,True,True,True
+doc_003258,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_011732,Managing an account,Checking or savings account,True,True,True,True
+doc_010648,Managing an account,Checking or savings account,True,True,True,True
+doc_011491,Closing an account,Checking or savings account,True,True,True,True
+doc_008929,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_006874,Managing an account,Checking or savings account,True,True,True,True
+doc_003612,Managing an account,Checking or savings account,False,True,True,False
+doc_007360,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_009655,Managing an account,Checking or savings account,True,True,True,True
+doc_004558,Managing an account,Checking or savings account,False,True,True,False
+doc_013262,Managing an account,Checking or savings account,True,True,True,True
+doc_014243,Managing an account,Checking or savings account,False,True,True,True
+doc_000107,Managing an account,Checking or savings account,True,True,True,True
+doc_012433,Opening an account,Checking or savings account,True,True,True,True
+doc_013203,Managing an account,Checking or savings account,True,True,True,True
+doc_002616,Closing an account,Checking or savings account,False,True,True,True
+doc_011439,Managing an account,Checking or savings account,False,True,True,False
+doc_006925,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_005575,Managing an account,Checking or savings account,True,True,True,True
+doc_004553,Managing an account,Checking or savings account,True,True,True,True
+doc_002548,Money was not available when promised,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_003528,Opening an account,Checking or savings account,True,True,True,True
+doc_012510,Managing an account,Checking or savings account,False,True,True,True
+doc_005515,Managing an account,Checking or savings account,True,True,True,True
+doc_001675,Managing an account,Checking or savings account,True,True,True,True
+doc_001520,Money was not available when promised,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_006225,Closing an account,Checking or savings account,False,True,True,False
+doc_001585,Managing an account,Checking or savings account,True,True,True,True
+doc_005882,Managing an account,Checking or savings account,True,True,True,True
+doc_013886,Managing an account,Checking or savings account,True,True,True,True
+doc_005636,Opening an account,Checking or savings account,True,True,True,False
+doc_009892,Managing an account,Checking or savings account,True,True,True,True
+doc_004334,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_013224,Managing an account,Checking or savings account,True,True,True,True
+doc_000712,Closing an account,Checking or savings account,True,True,True,True
+doc_011956,Managing an account,Checking or savings account,True,True,True,True
+doc_007528,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_008786,Opening an account,Checking or savings account,True,True,True,True
+doc_002046,Opening an account,Checking or savings account,True,True,True,True
+doc_006202,Managing an account,Checking or savings account,True,True,True,True
+doc_001292,Unexpected or other fees,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_009045,Managing an account,Checking or savings account,True,True,True,True
+doc_004804,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_013589,Managing an account,Checking or savings account,True,True,True,True
+doc_010300,Managing an account,Checking or savings account,False,False,True,False
+doc_010134,Managing an account,Checking or savings account,True,True,True,True
+doc_014508,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_014119,Managing an account,Checking or savings account,False,True,True,False
+doc_005926,Problem with customer service,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_009460,Managing an account,Checking or savings account,True,True,True,True
+doc_003151,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_011544,Closing an account,Checking or savings account,True,True,True,True
+doc_001140,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_000751,Managing an account,Checking or savings account,True,True,True,True
+doc_010835,Managing an account,Checking or savings account,True,True,True,True
+doc_003734,Managing an account,Checking or savings account,True,True,True,True
+doc_012666,Managing an account,Checking or savings account,True,True,True,True
+doc_004742,Closing an account,Checking or savings account,True,True,True,True
+doc_001308,Closing an account,Checking or savings account,True,True,True,True
+doc_014014,Managing an account,Checking or savings account,True,True,True,True
+doc_003815,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_014197,Problem with a lender or other company charging your account,Checking or savings account,False,True,True,False
+doc_001655,Improper use of your report,Checking or savings account,False,False,True,False
+doc_006228,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_004555,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_007429,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_010416,Managing an account,Checking or savings account,False,True,True,False
+doc_013667,Managing an account,Checking or savings account,True,True,True,False
+doc_005978,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_002665,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_006066,Managing an account,Checking or savings account,True,True,True,True
+doc_005821,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_003433,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_010981,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_004375,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_011499,Problem with customer service,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_011200,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_010618,Opening an account,Checking or savings account,True,True,True,True
+doc_001170,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_009981,Closing an account,Checking or savings account,False,False,True,False
+doc_010404,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_002804,Managing an account,Checking or savings account,True,True,True,True
+doc_008752,Managing an account,Checking or savings account,False,True,True,False
+doc_011947,Managing an account,Checking or savings account,True,True,True,True
+doc_004011,Managing an account,Checking or savings account,True,True,True,True
+doc_002678,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_007574,Managing an account,Checking or savings account,True,True,True,True
+doc_006217,Managing an account,Checking or savings account,True,True,True,True
+doc_004423,Problem with customer service,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_010486,Unauthorized transactions or other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_011275,Fraud or scam,"Money transfer, virtual currency, or money service",False,True,True,True
+doc_009126,Managing an account,Checking or savings account,True,True,True,True
+doc_003599,Managing an account,Checking or savings account,True,True,True,True
+doc_011217,Managing an account,Checking or savings account,True,True,True,True
+doc_005314,Managing an account,Checking or savings account,True,True,True,True
+doc_013810,Managing an account,Checking or savings account,True,True,True,False
+doc_012589,Managing an account,Checking or savings account,True,True,True,False
+doc_012714,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_000917,Managing an account,Checking or savings account,True,True,True,False
+doc_003753,Managing an account,Checking or savings account,True,True,True,True
+doc_013465,Managing an account,Checking or savings account,True,True,True,True
+doc_000526,Opening an account,Checking or savings account,True,True,True,False
+doc_013190,Managing an account,Checking or savings account,True,True,True,True
+doc_005169,Managing an account,Checking or savings account,True,True,True,True
+doc_006573,Managing an account,Checking or savings account,True,True,True,True
+doc_004387,Managing an account,Checking or savings account,True,True,True,True
+doc_001085,Managing an account,Checking or savings account,True,True,True,True
+doc_003457,Managing an account,Checking or savings account,True,True,True,True
+doc_009293,Closing an account,Checking or savings account,True,True,True,True
+doc_014359,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_011763,Managing an account,Checking or savings account,True,True,True,False
+doc_005156,Managing an account,Checking or savings account,False,True,True,False
+doc_003484,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_010739,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_008180,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_006483,Managing an account,Checking or savings account,True,True,True,True
+doc_014495,Managing an account,Checking or savings account,True,True,True,True
+doc_010533,Closing an account,Checking or savings account,True,True,True,False
+doc_007518,Managing an account,Checking or savings account,True,True,True,True
+doc_002341,Managing an account,Checking or savings account,True,True,True,False
+doc_004340,Managing an account,Checking or savings account,True,True,True,True
+doc_002288,Managing an account,Checking or savings account,True,True,True,True
+doc_004041,Closing an account,Checking or savings account,True,True,True,True
+doc_012206,Managing an account,Checking or savings account,True,True,True,True
+doc_009198,Managing an account,Checking or savings account,True,True,True,True
+doc_008831,Managing an account,Checking or savings account,True,True,True,True
+doc_004305,Closing an account,Checking or savings account,True,True,True,True
+doc_012240,Managing an account,Checking or savings account,True,True,True,True
+doc_009578,Opening an account,Checking or savings account,True,True,True,True
+doc_007020,Managing an account,Checking or savings account,True,True,True,True
+doc_014710,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_009561,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_006544,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_005931,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_003594,Fraud or scam,"Money transfer, virtual currency, or money service",False,False,True,False
+doc_002267,Confusing or missing disclosures,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_008349,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_008086,Managing an account,Checking or savings account,True,True,True,True
+doc_001490,Managing an account,Checking or savings account,True,True,True,True
+doc_012383,Managing an account,Checking or savings account,True,True,True,True
+doc_000772,Managing an account,Checking or savings account,True,True,True,True
+doc_014109,Managing an account,Checking or savings account,True,True,True,True
+doc_001797,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,True
+doc_002505,Closing an account,Checking or savings account,True,True,True,True
+doc_010281,Managing an account,Checking or savings account,True,True,True,True
+doc_002622,Closing an account,Checking or savings account,True,True,True,True
+doc_012978,Closing an account,Checking or savings account,True,True,True,True
+doc_011150,Closing an account,Checking or savings account,True,True,True,True
+doc_006917,Managing an account,Checking or savings account,True,True,True,True
+doc_009772,Unexpected or other fees,"Money transfer, virtual currency, or money service",True,True,True,False
+doc_001041,Closing an account,Checking or savings account,True,True,True,True
+doc_006305,Managing an account,Checking or savings account,True,True,True,True
+doc_006253,Problem with a lender or other company charging your account,Checking or savings account,True,True,True,False
+doc_009764,Managing an account,Checking or savings account,True,True,True,True
+doc_007669,Closing an account,Checking or savings account,True,True,True,True
+doc_008670,Closing an account,Checking or savings account,True,True,True,True
+doc_004120,Confusing or missing disclosures,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_009065,Managing an account,Checking or savings account,True,True,True,True
+doc_014104,Managing an account,Checking or savings account,True,True,True,True
+doc_000189,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_011146,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_011809,Managing an account,Checking or savings account,True,True,True,True
+doc_001877,Incorrect information on your report,Checking or savings account,False,False,True,False
+doc_011170,Problem caused by your funds being low,Checking or savings account,True,True,True,True
+doc_014497,Other transaction problem,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_008798,Unauthorized transactions or other transaction problem,"Money transfer, virtual currency, or money service",False,False,False,False
+doc_012303,Fraud or scam,"Money transfer, virtual currency, or money service",True,True,True,True
+doc_004372,Closing an account,Checking or savings account,True,True,True,True
+doc_012593,Managing an account,Checking or savings account,True,True,True,True
+doc_010502,Managing an account,Checking or savings account,False,True,True,False
+doc_005574,Managing an account,Checking or savings account,True,True,True,True
+doc_001828,Managing an account,Checking or savings account,True,True,True,True
+doc_004809,Managing an account,Checking or savings account,True,True,True,True
+doc_007124,Managing an account,Checking or savings account,True,True,True,True
