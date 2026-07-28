@@ -104,7 +104,7 @@ Answer:"""
 
     response = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=500,
+        max_tokens=800,
         messages=[{"role": "user", "content": prompt}],
     )
     state["answer"] = response.content[0].text
@@ -122,9 +122,14 @@ def build_graph():
 
 
 if __name__ == "__main__":
+    import sys
+
+    default_question = "Why are customers complaining about account closures?"
+    question = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else default_question
+
     app = build_graph()
     result = app.invoke({
-        "question": "Why are customers complaining about account closures?",
+        "question": question,
         "retrieved_docs": [],
         "anomaly_data": {},
         "answer": "",

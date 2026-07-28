@@ -58,6 +58,27 @@ output, just present in the raw files for transparency.
                    └───────────────────┘
 ```
 
+## Example usage (real output, not mocked)
+
+**Question:** *"Are there any complaint spikes I should be aware of?"*
+
+The agent correctly identified the same Jan 13-18, 2025 window flagged by the anomaly
+detector, connected it to specific retrieved complaints, and — on its own, without being
+prompted to — surfaced a possible root cause hypothesis: several retrieved documents
+referenced Zelle transfer disputes and missing disclosures during that exact window,
+which the model flagged as worth investigating further. This wasn't something I found
+during my own research into the spike (see the anomaly section above) — the agent found
+a lead I hadn't.
+
+**Question:** *"What are the most common issues with money transfers?"*
+
+The agent grouped retrieved complaints into four themes (SIM-swap/identity fraud, missing
+fraud disclosures, transfers sent to wrong accounts with no verification step, and hidden
+fees on currency conversion), cited specific document IDs for each, and again connected
+the pattern back to the anomaly spike without being asked to cross-reference.
+
+Full outputs for both, plus a third example, are in `data/processed/example_outputs.md`.
+
 ## Results (real numbers, not projected)
 
 ### Retrieval evaluation
