@@ -1,165 +1,130 @@
 # fin-complaint-signal-agent
 
-An agentic system for financial services complaint monitoring. It does two things:
+This project is an AI agent that does two things with real customer complaint data:
 
-1. **Answers questions** about customer complaints by retrieving relevant real complaint
-   narratives and generating a cited answer (RAG).
-2. **Flags anomalies** in daily complaint volume by category, so a servicing team could
-   spot unusual spikes before they become a bigger problem.
+1. It answers questions about complaints by pulling up the most relevant real complaints and writing a summary, with sources cited.
+2. It watches complaint volume over time and flags days where something unusual is happening, like a sudden spike.
 
-Built as a portfolio project to demonstrate agentic RAG + time-series monitoring for a
-research-engineer-style data science role in payments/financial services.
+I built this as a portfolio project to show two skills together: retrieval based AI agents (RAG) and time series anomaly detection. Most of my other projects only show the first one. This one shows both, working as a single system.
 
-## Why this project
+## What data does it use
 
-Most of my other projects are "agent retrieves docs and answers a question." This one
-adds a second, genuinely different skill: detecting anomalies in a real time series and
-explaining *why* something spiked using the RAG layer. Two distinct technical skills,
-one system.
+Real complaint data from the CFPB, a US government agency that publishes every complaint filed against a bank. I filtered it down to two categories:
 
-## The data
+- Checking or savings account complaints (23,322 of them)
+- Money transfer and virtual currency complaints (5,110 of them)
 
-Real consumer complaint records pulled from the CFPB (Consumer Financial Protection
-Bureau) — a US government agency that publishes every complaint filed against a bank
-publicly. Filtered to two categories:
+The data covers January 2024 through September 2025. My original pull went a little further than that, but the last week of data was cut off mid pull, which made it look like complaints suddenly dropped to almost zero. That was not real, it was just an incomplete data pull, so I trimmed it out. Catching that kind of thing matters, because feeding fake low numbers into an anomaly detector would create a false alarm.
 
-- **Checking or savings account** (23,322 complaints)
-- **Money transfer, virtual currency, or money service** (5,110 complaints)
+## How it works
 
-Date range: Jan 1, 2024 – Sep 30, 2025 (the original pull went a bit further but the
-last week was a truncated data cutoff, not real low volume, so I trimmed it — worth
-catching before it feeds an anomaly detector and creates a fake alert).
+A user asks a question. The agent does two things at once:
 
-Two institutions are represented in the raw data since the source combined them; company
-identity isn't the point of this project so it's not surfaced anywhere in the pipeline
-output, just present in the raw files for transparency.
+1. It searches through 14,945 real complaint documents to find the most relevant ones.
+2. It checks whether there have been any recent unusual spikes in complaint volume.
 
-## Architecture
+Then it hands both of those to Claude, which writes an answer that cites the specific complaints it used.
 
 ```
-                    ┌─────────────────┐
-   User question →  │   LangGraph      │
-                    │   Agent          │
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┴───────────────┐
-              ▼                               ▼
-    ┌─────────────────┐           ┌──────────────────────┐
-    │  TF-IDF Retrieval │           │  Anomaly Detection   │
-    │  (14,945 docs)     │           │  (STL decomposition)  │
-    └─────────────────┘           └──────────────────────┘
-              │                               │
-              └──────────────┬───────────────┘
-                             ▼
-                   ┌───────────────────┐
-                   │  Claude (Anthropic  │
-                   │  API) generates      │
-                   │  cited answer         │
-                   └───────────────────┘
+Question
+   |
+   v
+Agent
+   |
+   +----> Search complaints (TF-IDF retrieval)
+   |
+   +----> Check for volume spikes (anomaly detection)
+   |
+   v
+Claude writes a cited answer
 ```
 
-## Example usage (real output, not mocked)
+## Results, from actually running it
 
-**Question:** *"Are there any complaint spikes I should be aware of?"*
+### How good is the search
 
-The agent correctly identified the same Jan 13-18, 2025 window flagged by the anomaly
-detector, connected it to specific retrieved complaints, and — on its own, without being
-prompted to — surfaced a possible root cause hypothesis: several retrieved documents
-referenced Zelle transfer disputes and missing disclosures during that exact window,
-which the model flagged as worth investigating further. This wasn't something I found
-during my own research into the spike (see the anomaly section above) — the agent found
-a lead I hadn't.
+I tested this by taking 200 real complaints, turning the first few sentences of each into a search query, and checking whether the system found other complaints about the same issue.
 
-**Question:** *"What are the most common issues with money transfers?"*
+- It got the exact right issue type in its top result 85 percent of the time
+- It got the right issue type somewhere in its top 5 results 97 percent of the time
+- It got the right general category in its top 5 results 99.5 percent of the time
 
-The agent grouped retrieved complaints into four themes (SIM-swap/identity fraud, missing
-fraud disclosures, transfers sent to wrong accounts with no verification step, and hidden
-fees on currency conversion), cited specific document IDs for each, and again connected
-the pattern back to the anomaly spike without being asked to cross-reference.
+### What the anomaly detector found
 
-Full outputs for both, plus a third example, are in `data/processed/example_outputs.md`.
+I used a method called STL decomposition, which separates a time series into trend, weekly pattern, and leftover noise, then flags days where that leftover noise is much bigger than normal.
 
-## Results (real numbers, not projected)
+- For checking and savings complaints, it flagged 25 unusual days out of 639
+- For money transfer complaints, it flagged 5 unusual days out of 639
+- Both categories showed a real, sharp spike around January 15 to 18, 2025. I looked for a specific news story that would explain it and didn't find one, but I did find that 2025 saw a big overall rise in these complaint types nationally, so this spike sits inside a real larger trend. I'm being upfront that I found something real but can't fully explain the exact cause myself. In an actual job, this is the kind of thing you'd flag for a person to look into, not something an algorithm should just explain on its own.
 
-### Retrieval evaluation
-Evaluated by sampling 200 held-out complaint narratives, building a realistic query
-from the first ~25 words, and checking whether the retriever surfaces documents sharing
-the same issue label (a proxy for topical relevance).
+### What the agent said when I actually asked it questions
 
-- **Issue label match @ top-1: 85.0%**
-- **Issue label match @ top-5: 97.0%**
-- **Category label match @ top-5: 99.5%**
+I ran real questions through the agent using the Claude API and got real answers back. A few examples:
 
-### Anomaly detection
-Used STL (seasonal-trend-residual) decomposition with weekly seasonality (period=7,
-since complaint volume clearly dips on weekends), flagging days where the residual
-z-score exceeds 2.5.
+**"Are there any complaint spikes I should be aware of?"**
+The agent correctly found the same January 2025 spike the anomaly detector flagged, and on its own, without being told to, it noticed that several of the complaints from that exact week mentioned Zelle transfer problems. That's a lead I hadn't found myself when I researched the spike earlier. It also correctly noticed a couple of unusually low volume days and flagged them as possible data quality issues rather than assuming they meant something.
 
-- **Checking or savings account**: 25 anomalies flagged across 639 days (3.9%)
-- **Money transfer**: 5 anomalies flagged across 639 days (0.8%)
-- Both categories show a sharp, simultaneous spike around **Jan 15–18, 2025**
-  (z-scores up to 18.3) — a real, detected deviation. I looked into public sources
-  for a specific cause and didn't find one pinned to that exact week, but 2025 saw a
-  53% YoY increase in checking/savings complaints and a 275% YoY increase in money
-  transfer complaints per CFPB's annual report, so this sits inside a genuine
-  broader volume increase. In a real deployment this is exactly the kind of thing
-  that gets flagged for a human to review, not auto-explained — I'm being upfront
-  that the detector found something real even though I can't fully explain the
-  specific week myself.
+**"What are the most common issues with money transfers?"**
+The agent grouped the complaints into four clear themes on its own: SIM swap fraud, missing fraud warnings, transfers sent to the wrong account with no way to reverse them, and hidden fees on currency exchange. It cited the specific complaints behind each theme.
 
-## What's fully working vs. what needs a key
+Full text of these answers is saved in `data/processed/example_outputs.md`.
 
-- Data pipeline, retrieval, anomaly detection, evaluation — all real, all executed,
-  all numbers above are from actual runs.
-- **Answer generation** requires an Anthropic API key (not included, obviously).
-  Set it as an environment variable and the agent will generate real cited answers:
-  ```bash
-  export ANTHROPIC_API_KEY=your_key_here
-  ```
-  Without a key, the agent still runs end-to-end and returns retrieved docs +
-  anomaly data, just skips the final generation step.
+## What's real and what needs a key to run
 
-## Project structure
+Everything except the final answer writing step is fully built and already tested, no key needed:
+- The data cleaning
+- The search system
+- The anomaly detector
+- The evaluation numbers above
+
+The answer writing step uses the Claude API, which needs an API key (not included, for obvious reasons). If you want to run it yourself:
+
+```bash
+export ANTHROPIC_API_KEY=your_key_here
+```
+
+Without a key, the agent still runs, still searches, still checks for anomalies, it just skips the last step of writing a full answer.
+
+## Project layout
 
 ```
 fin-complaint-signal-agent/
 ├── data/
-│   ├── raw/                  # original unmodified source files
-│   └── processed/            # cleaned data, eval results, anomaly results
+│   ├── raw/                  the original, untouched source files
+│   └── processed/            cleaned data, eval results, example outputs
 ├── scripts/
-│   └── scripts_clean_data.py # data cleaning/filtering pipeline
+│   └── scripts_clean_data.py cleans and filters the raw data
 ├── src/
-│   ├── retrieval.py          # TF-IDF index build + search
-│   ├── evaluate_retrieval.py # retrieval eval harness
-│   ├── anomaly_detection.py  # STL-based anomaly detection
-│   ├── agent.py              # LangGraph orchestration + generation
-│   └── api.py                # FastAPI wrapper
+│   ├── retrieval.py          builds the search index and searches it
+│   ├── evaluate_retrieval.py tests how good the search is
+│   ├── anomaly_detection.py  finds unusual days in the complaint volume
+│   ├── agent.py               ties everything together and calls Claude
+│   └── api.py                  a simple web API for the whole thing
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
 ```
 
-## Running it
+## How to run it
 
 ```bash
 pip install -r requirements.txt
 
-# 1. Clean the data (already done, outputs are in data/processed/)
+# Step 1, clean the data (already done, output is already in data/processed)
 python scripts/scripts_clean_data.py
 
-# 2. Build the retrieval index (not committed to git, rebuild locally)
+# Step 2, build the search index (not saved in this repo since it's large, so build it locally)
 cd src
 python retrieval.py
 
-# 3. Run anomaly detection
+# Step 3, run the anomaly detector
 python anomaly_detection.py
 
-# 4. Run the agent (set ANTHROPIC_API_KEY first for real generation)
-python agent.py
+# Step 4, run the agent (add your API key first if you want a full written answer)
+python agent.py "your question here"
 
-# 5. Or run the API
+# Step 5, or run it as a web API
 uvicorn api:app --reload
-# then POST to http://localhost:8000/ask with {"question": "..."}
 ```
 
 Or with Docker:
@@ -168,15 +133,8 @@ docker build -t complaint-agent .
 docker run -p 8000:8000 -e ANTHROPIC_API_KEY=your_key complaint-agent
 ```
 
-## Honest limitations
+## Things I want to be upfront about
 
-- Anomaly labels aren't ground-truth verified against confirmed real-world events —
-  they're statistically flagged deviations, validated by the fact that the detection
-  is stable and the magnitude (z > 6, even > 18 for one category) is not subtle.
-- The RAG corpus is complaint narratives, not internal servicing docs, so the
-  "explain why" story it tells is limited to what's in consumer-submitted text, not
-  internal company knowledge a real deployment would have access to.
-- Self-retrieval rate in eval (89.5%) is a sanity check, not the main metric — it's
-  a bit below 100% because TF-IDF similarity between a 25-word snippet and its own
-  longer parent document isn't guaranteed to be the single top match when other
-  near-duplicate complaints exist in the corpus.
+- The anomaly detector flags statistical outliers, not confirmed real world events. I'm confident the January 2025 spike is real because the numbers are so far outside normal (way more than double the usual range), not because I found a news article proving it.
+- The search system only has access to complaint text written by customers, not internal company documents, so its explanations are limited to what customers themselves wrote.
+- One of my evaluation checks (whether the system could find a complaint's own original text when searching using a snippet of that same text) came back at 89.5 percent instead of close to 100 percent. That's expected, since the corpus has a lot of very similar complaints, so a short snippet sometimes matches a near duplicate complaint just as well as the original one.
