@@ -55,7 +55,7 @@ I used a method called STL decomposition, which separates a time series into tre
 
 - For checking and savings complaints, it flagged 25 unusual days out of 639
 - For money transfer complaints, it flagged 5 unusual days out of 639
-- Both categories showed a real, sharp spike around January 15 to 18, 2025. I looked for a specific news story that would explain it and didn't find one, but I did find that 2025 saw a big overall rise in these complaint types nationally, so this spike sits inside a real larger trend. I'm being upfront that I found something real but can't fully explain the exact cause myself. In an actual job, this is the kind of thing you'd flag for a person to look into, not something an algorithm should just explain on its own.
+- Both categories showed a real, sharp spike around January 15 to 18, 2025. I looked for a specific news story that would explain it and didn't find one, but I did find that 2025 saw a big overall rise in these complaint types nationally, so this spike sits inside a real larger trend. I'm being upfront that I found something real but can't fully explain the exact cause myself. 
 
 ### What the agent said when I actually asked it questions
 
