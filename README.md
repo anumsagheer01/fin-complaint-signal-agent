@@ -5,7 +5,7 @@ This project is an AI agent that does two things with real customer complaint da
 1. It answers questions about complaints by pulling up the most relevant real complaints and writing a summary, with sources cited.
 2. It watches complaint volume over time and flags days where something unusual is happening, like a sudden spike.
 
-I built this as a portfolio project to show two skills together: retrieval based AI agents (RAG) and time series anomaly detection. Most of my other projects only show the first one. This one shows both, working as a single system.
+I built this as a portfolio project to show two skills together: retrieval based AI agents (RAG) and time series anomaly detection. 
 
 ## What data does it use
 
